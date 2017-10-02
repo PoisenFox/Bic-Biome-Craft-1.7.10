@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bicbiome",
+  "name": "Bic Biome Craft",
+  "description": "This Mod adds a bunch of biomes and tools",
+  "version": "v.1.0",
+  "mcversion": "1.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PoisenFox"],
+  "credits": "PoisenFox, Tung115(Original Creator), DRdre99, PeturDarri, the_sweden_ninja ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,25 @@
+item.skinkiumcrystal.name=Skinkium Crystal
+item.tungingot.name=Tung Ingot
+item.wakadewiaingot.name=Wakadewia Crystal
+item.bicboiniumingot.name=Bicboinium Ingot
+item.whlopmoreingot.name=Whlopmore Ingot
+item.crevburacrystal.name=Crevbura Crystal
+item.penoiumingot.name=Penoium Ingot
+item.harmuraingot.name=Harmura Ingot
+
+item.tungchops.name=Tung Chops
+
+tile.blockskinkium.name=Skinkium Ore
+tile.blocktung.name=Tung Ore
+tile.blockwakadewia.name=Wakadewia Ore
+tile.blockbicboinium.name=Bicboinium Ore
+tile.blockwhlopmore.name=Whlopmore Ore
+tile.blockpenoium.name=Penoium Ore
+tile.blockharmura.name=Harmura Ore
+tile.blockcrevbura.name=Crevbura Ore
+
+tile.cloud.name=Cloud
+tile.cloudred.name=Red Cloud
+tile.cloudpendulum.name=Cloud of pendulum
+
+itemGroup.tabbicbiome=BicBiome Craft
